@@ -6,7 +6,7 @@
     border-top-color: rgb(204, 148, 148);
     animation: rotate 2s 0s infinite ease-in-out;
 }
-
+ 
 @keyframes rotate {
 0% {
         transform: rotate(0);
